@@ -68,7 +68,7 @@ body {
   position: bottom;
   height: 250.2px;
   
-  background-image: "BNSP.webp";
+  background-image: "src= BNSP.webp";
 
   background-size: cover;
   box-sizing: border-box;
